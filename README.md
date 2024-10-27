@@ -3,7 +3,7 @@ Benvingut a GuitarShop Som una botiga especialitzada en guitarres, on trobaràs 
 
 Esquema general 1: Esquema que mostra totes les conexions entre les diferents pàgines.
 
-<img src = imatges/primeraPagina.jpg width="300" height="250">
+<img src = imatges/primeraPagina.jpg width="400" height="550">
 
 Esquema general 1: Esquema que mostra totes les conexions entre les diferents pàgines.
 
