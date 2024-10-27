@@ -36,29 +36,42 @@ Aquesta secció conte amb un filtre de preu, marca i tipus de guitarra. Al clica
 <img src = imatges/5.jpg width="200" height="250">
 
 Detall:
-Al clicar a una fotografia del catàleg t'envia a aquesta secció. Aqui és troba informació detallada de cada guitarra: fotografies de la guitarra, especificacions tècniques, ressenyes del clients i un botó per afegir el producte a la cistella.
+Al clicar a una fotografia del catàleg t'envia a aquesta secció. Aqui és troba informació detallada de cada guitarra: fotografies de la guitarra, especificacions tècniques, ressenyes del clients i un botó per afegir el producte a la cistella. També té un botó que t'envia a un formulari per inserir un nou producte.
 
 <img src = imatges/7.jpg width="200" height="250">
 
 Cistella:
+Conte amb la funcionalitat per afegir i eliminar productes de la cistella. També conte amb un procés de compra.
 
 <img src = imatges/6.jpg width="200" height="250">
 
-
+Inserció del producte:
+Pàgina estil formulari en la que es demana el nom del producte, la marca i el preu. Té un botó d'enviar que t'envia a una pàgina que confirma el teu formulari.
 
 <img src = imatges/8.jpg width="200" height="250">
 
+Confirmació formulari:
+Secció que confirma el client que el seu formulari ha estat enviat exitosament.
+
 <img src = imatges/9.jpg width="200" height="250">
 
-<img src = imatges/10.jpg width="200" height="250">
+Iniciar sessió/registrar:
+Pàgina que comunicada amb el menú. En aquesta secció es pot iniciar sessió amb el teu correu i contrasenya i entrar a la pàgina d'inici. També pots clicar al botó de registrarse per ser enviat a la pàgina de registre. O bé al botó de contrasenya oblidada per poder restabler-la.
 
 <img src = imatges/11.jpg width="200" height="250">
 
+Registre:
+Secció a completar amb el nom complet, correu i número telefònic per poder registrar-se. Al clicar al botó d'enviar aniràs a la pàgina d'iniciar sessió/registre.
+
 <img src = imatges/12.jpg width="200" height="250">
 
-<img src = imatges/13.jpg width="200" height="250">
+Recuperació contrasenya:
+Pàgina on es demana el correu de recuperació per poder enviar-te un codi al correu i restablir la contraseña. Al donar clic a enviar t'envia a la pàgina de confirmació de la recuperación de la contrasenya.
 
 <img src = imatges/14.jpg width="200" height="250">
+
+Confirmació recuperació contrasenya:
+Secció que demana una contrasenya nova i la seva repetició per poder establir la nova contrasenya. Al clicar al botó d'enviar et redirigeix a la pantalla d'inici.
 
 <img src = imatges/15.jpg width="200" height="250">
 
