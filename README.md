@@ -3,6 +3,7 @@ Benvingut a GuitarShop Som una botiga especialitzada en guitarres, on trobaràs 
 
 
 Pàgina d'inici:
+
 <img src = imatges/1.jpg width="200" height="250">
 
 <img src = imatges/2.jpg width="200" height="250">
