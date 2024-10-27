@@ -4,5 +4,5 @@ prova
 
 
 holaaa
-![1](imatges/1.jpg)
+<img src = imatges/1.jpg width="200" height="200">
 holaaa
