@@ -5,5 +5,5 @@ prova
 
 
 holaaa
-<img src = imatges/1.jpg width="200" height="200">
+<img src = imatges/1.jpg width="200" height="250">
 holaaa
