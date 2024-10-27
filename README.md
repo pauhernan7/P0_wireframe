@@ -3,8 +3,11 @@ Benvingut a GuitarShop Som una botiga especialitzada en guitarres, on trobaràs 
 
 
 Pàgina d'inici:
+Presentació de la botiga. Amb un botó desplegable que mostra el menú. També hi ha una secció de destacats amb una breu descripció de cada guitarra. Enllaça amb el menú i amb la pàgina a detall de cada guitarra al clicar a sobre d'una imatge.
 
 <img src = imatges/1.jpg width="200" height="250">
+
+holaaa
 
 <img src = imatges/2.jpg width="200" height="250">
 
