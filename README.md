@@ -1,6 +1,14 @@
 # P0_wireframe
 Benvingut a GuitarShop Som una botiga especialitzada en guitarres, on trobaràs les guitarres més luxoses, sempre amb la millor qualitat i servei. Si ets un guitarrista principiant o un professional experimentat, tenim alguna cosa per a tu. Navega pel nostre catàleg, descobreix les nostres ofertes i aprèn més sobre cada instrument.
 
+Esquema general 1: Esquema que mostra totes les conexions entre les diferents pàgines.
+
+<img src = imatges/primeraPagina.jpg width="200" height="250">
+
+Esquema general 1: Esquema que mostra totes les conexions entre les diferents pàgines.
+
+<img src = imatges/segonaPagina.jpg width="200" height="250">
+
 
 Pàgina d'inici:
 Presentació de la botiga. Amb un botó desplegable que mostra el menú. També hi ha una secció de destacats amb una breu descripció de cada guitarra. Enllaça amb el menú i amb la pàgina a detall de cada guitarra al clicar a sobre d'una imatge.
